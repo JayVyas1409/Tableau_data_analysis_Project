@@ -1,1 +1,1 @@
-# Data analysis project 
+# Data visualization of companies stock price
